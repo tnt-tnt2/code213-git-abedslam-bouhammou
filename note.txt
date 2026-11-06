@@ -1,0 +1,2 @@
+1 git = local tool , github = cloud hosting 
+four areas: areas 
