@@ -1,0 +1,4 @@
+1never commit secrets or passwoeds
+2review changes with git diff first
+3
+4
